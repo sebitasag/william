@@ -1,5 +1,15 @@
 document.addEventListener('DOMContentLoaded', function () {
 
+  var gallery = document.getElementById('gallery');
+  if (gallery && typeof CACHORROS !== 'undefined') {
+    gallery.innerHTML = CACHORROS.map(function (c) {
+      var detalle = c.detalle.split('\n').join('<br>');
+      return '<figure>' +
+        '<div class="thumb"><img src="' + c.img + '" alt="' + c.nombre + '" loading="lazy"></div>' +
+        '<figcaption><h3>' + c.nombre + '</h3><p>' + detalle + '</p></figcaption>' +
+        '</figure>';
+    }).join('');
+  }
 
   var navToggle = document.getElementById('navToggle');
   var mainNav = document.getElementById('mainNav');

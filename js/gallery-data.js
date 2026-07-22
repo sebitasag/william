@@ -2,7 +2,7 @@
 const CACHORROS = [
   { img: "images/maltipoo.jpeg", nombre: "Maltipoo", detalle: "Hembra\n2 meses" },
   { img: "images/husky1.jpeg", nombre: "Husky", detalle: "Hembra\n2 meses" },
-  { img: "images/g03_goldendoodle.jpg", nombre: "💫Goldendoodle💫", detalle: "Macho\n2 meses" },
+  { img: "images/bulldog.jpeg", nombre: "💫Bulldog Fránces Fuffly💫", detalle: "Hembra\n2 meses" },
   { img: "images/chow.jpeg", nombre: "Chow Chow", detalle: "Macho\n2 meses" },
   { img: "images/g05_caniche_mini_chocolate.jpeg", nombre: "💫Caniche Mini Chocolate💫", detalle: "Macho\n2 meses" },
   { img: "images/chihuahua.jpeg", nombre: "Chihuahua", detalle: "Hembra\n2 meses" },

@@ -4,10 +4,22 @@ document.addEventListener('DOMContentLoaded', function () {
   if (gallery && typeof CACHORROS !== 'undefined') {
     gallery.innerHTML = CACHORROS.map(function (c) {
       var detalle = c.detalle.split('\n').join('<br>');
-      return '<figure>' +
-        '<div class="thumb"><img src="' + c.img + '" alt="' + c.nombre + '" loading="lazy"></div>' +
-        '<figcaption><h3>' + c.nombre + '</h3><p>' + detalle + '</p></figcaption>' +
-        '</figure>';
+
+      var mensaje = encodeURIComponent(
+        'Hola 👋, me interesa el cachorro ' + c.nombre + '. ¿Podrían brindarme más información? 🐶'
+      );
+
+      return '<a href="https://wa.me/593993586596?text=' + mensaje + '" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;display:block;">' +
+        '<figure>' +
+          '<div class="thumb">' +
+            '<img src="' + c.img + '" alt="' + c.nombre + '" loading="lazy">' +
+          '</div>' +
+          '<figcaption>' +
+            '<h3>' + c.nombre + '</h3>' +
+            '<p>' + detalle + '</p>' +
+          '</figcaption>' +
+        '</figure>' +
+        '</a>';
     }).join('');
   }
 
@@ -49,5 +61,4 @@ document.addEventListener('DOMContentLoaded', function () {
       answer.style.maxHeight = expanded ? null : answer.scrollHeight + 'px';
     });
   });
-
 });

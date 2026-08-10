@@ -1,12 +1,12 @@
 // Aquí puedes editar las fotos, nombres y el detalle/edad del perrito, solo necesitas reemplazar la información cuando necesites actualizar
 const CACHORROS = [
   { img: "images/westy_2.jpeg", nombre: "West Highland Terrier", detalle: "Macho\n2 meses" },
-  { img: "images/fuffly_2.jpeg", nombre: "Bulldog Fránces Fuffly", detalle: "Hembra\n2 meses" },
-  { img: "images/goldendoodle.jpeg", nombre: "💫Goldendoodle💫", detalle: "Macho\n2 meses" },
-  { img: "images/chow.jpeg", nombre: "Chow Chow", detalle: "Macho\n2 meses" },
+  { img: "images/pastor2.jpeg", nombre: "Pastor Alemán", detalle: "Hembras Y Machos\n2 meses" },
+  { img: "images/beagle3.jpeg", nombre: "💫Beagle💫", detalle: "Hembra\n2 meses" },
+  { img: "images/maltipoo.jpeg", nombre: "Maltipoo", detalle: "Hembra\n2 meses" },
   { img: "images/Caniche_rojo.jpeg", nombre: "💫Caniche Mini Toy Rojo💫", detalle: "Hembra\n2 meses" },
   { img: "images/shih_tzu3.jpeg", nombre: "Shih Tzu", detalle: "Hembra\n2 meses" },
-  { img: "images/fuffly.jpeg", nombre: "Bulldog Francés Fuffly", detalle: "Hembra\n2 meses" },
+  { img: "images/chihuahua.jpeg", nombre: "Chihuahua", detalle: "Hembra\n2 meses" },
   { img: "images/cliente3.jpeg", nombre: "Shih Tzu", detalle: "🥳 En cada rincón sus ladridos te sorprenderán🐾" },
   { img: "images/g09_schnauzer.jpeg", nombre: "Schnauzer", detalle: "🥰Tu casa estará llena de diversión💓" },
   { img: "images/g10_gato_esfinge.jpeg", nombre: "Gato Esfinge", detalle: "🥰😍💫Cuenta con nuestra garantía y cordialidad" },

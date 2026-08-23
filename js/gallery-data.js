@@ -1,11 +1,11 @@
 // Aquí puedes editar las fotos, nombres y el detalle/edad del perrito, solo necesitas reemplazar la información cuando necesites actualizar
 const CACHORROS = [
   { img: "images/westy_2.jpeg", nombre: "West Highland Terrier", detalle: "Macho\n2 meses" },
-  { img: "images/pastor2.jpeg", nombre: "Pastor Alemán", detalle: "Hembras Y Machos\n2 meses" },
+  { img: "images/pincher.jpeg", nombre: "Pincher Mini", detalle: "Hembras\n2 meses" },
   { img: "images/beagle3.jpeg", nombre: "💫Beagle💫", detalle: "Hembra\n2 meses" },
-  { img: "images/maltipoo.jpeg", nombre: "Maltipoo", detalle: "Hembra\n2 meses" },
-  { img: "images/caniche4.jpeg", nombre: "💫Caniche Mini Toy Rojo💫", detalle: "Macho\n2 meses" },
-  { img: "images/shih_tzu3.jpeg", nombre: "Shih Tzu", detalle: "Hembra\n2 meses" },
+  { img: "images/poodle.jpeg", nombre: "French Poodle", detalle: "Hembra\n2 meses" },
+  { img: "images/cocker.jpeg", nombre: "💫Cocker Spaniel💫", detalle: "Macho\n2 meses" },
+  { img: "images/doberman.jpeg", nombre: "Dobermann", detalle: "Hembra\n2 meses" },
   { img: "images/canichetoy.jpeg", nombre: "Caniche Mini Toy", detalle: "Hembra\n2 meses" },
   { img: "images/cliente3.jpeg", nombre: "Shih Tzu", detalle: "🥳 En cada rincón sus ladridos te sorprenderán🐾" },
   { img: "images/g09_schnauzer.jpeg", nombre: "Schnauzer", detalle: "🥰Tu casa estará llena de diversión💓" },

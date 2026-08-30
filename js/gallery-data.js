@@ -2,11 +2,11 @@
 const CACHORROS = [
   { img: "images/westy_2.jpeg", nombre: "West Highland Terrier", detalle: "Macho\n2 meses" },
   { img: "images/pincher.jpeg", nombre: "Pincher Mini", detalle: "Hembras\n2 meses" },
-  { img: "images/beagle3.jpeg", nombre: "💫Beagle💫", detalle: "Hembra\n2 meses" },
+  { img: "images/husky.jpeg", nombre: "💫Husky💫", detalle: "Hembra\n2 meses" },
   { img: "images/poodle.jpeg", nombre: "French Poodle", detalle: "Hembra\n2 meses" },
   { img: "images/cocker.jpeg", nombre: "💫Cocker Spaniel💫", detalle: "Macho\n2 meses" },
   { img: "images/doberman.jpeg", nombre: "Dobermann", detalle: "Hembra\n2 meses" },
-  { img: "images/canichetoy.jpeg", nombre: "Caniche Mini Toy", detalle: "Hembra\n2 meses" },
+  { img: "images/pomerania_04.jpg", nombre: "Pomerania Mini ", detalle: "Macho\n2 meses" },
   { img: "images/cliente3.jpeg", nombre: "Shih Tzu", detalle: "🥳 En cada rincón sus ladridos te sorprenderán🐾" },
   { img: "images/g09_schnauzer.jpeg", nombre: "Schnauzer", detalle: "🥰Tu casa estará llena de diversión💓" },
   { img: "images/g10_gato_esfinge.jpeg", nombre: "Gato Esfinge", detalle: "🥰😍💫Cuenta con nuestra garantía y cordialidad" },

@@ -6,7 +6,6 @@ const CACHORROS = [
   { img: "images/shihtzu3.jpg", nombre: "Shih Tzu", detalle: "Macho\n2 meses" },
   { img: "images/pequines.jpg", nombre: "💫Pequinés💫", detalle: "Hembra\n2 meses" },
   { img: "images/beagle4.jpg", nombre: "Beagle", detalle: "Machos\n2 meses" },
-  { img: "images/chihua.jpeg", nombre: "Chihuahua", detalle: "Hembra\n2 meses" },
   { img: "images/cliente3.jpeg", nombre: "Shih Tzu", detalle: "🥳 En cada rincón sus ladridos te sorprenderán🐾" },
   { img: "images/g09_schnauzer.jpeg", nombre: "Schnauzer", detalle: "🥰Tu casa estará llena de diversión💓" },
   { img: "images/g10_gato_esfinge.jpeg", nombre: "Gato Esfinge", detalle: "🥰😍💫Cuenta con nuestra garantía y cordialidad" },

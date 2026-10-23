@@ -1,6 +1,6 @@
 // Aquí puedes editar las fotos, nombres y el detalle/edad del perrito, solo necesitas reemplazar la información cuando necesites actualizar
 const CACHORROS = [
-  { img: "images/Chihuahua PL.jpg", nombre: "Chihuahua Pelo Largo", detalle: "hembra\n5 meses" },
+  { img: "images/Bulldog Frances Vaquita.jpg", nombre: "Bulldog Frances", detalle: "hembra\n2 meses" },
   { img: "images/poodle.jpeg", nombre: "French Poodle Mini", detalle: "Hembra\n2 meses" },
   { img: "images/cliente_husky.jpeg",nombre: "Husky Siberiano", detalle: "💫Un nuevo miembro a la familia💫" },
   { img: "images/golden.jpeg", nombre: "Goldendoodle", detalle: "Hembra\n2 meses" },
@@ -30,4 +30,5 @@ const CACHORROS = [
   { img: "images/g28_pincher_chocolate.jpeg", nombre: "Pincher Chocolate", detalle: "✨ Felicidad con cuatro patas 🐶" },
   { img: "images/g29_caniche_apricot.jpeg", nombre: "Caniche mini Apricot", detalle: "💫Entregamos cachorros de calidad💫" },
   { img: "images/g30_golden_retriever.jpeg", nombre: "Golden Retriever", detalle: "💫Mini aventura con grandes huellas💫" }
-];
+
+

@@ -31,4 +31,4 @@ const CACHORROS = [
   { img: "images/g29_caniche_apricot.jpeg", nombre: "Caniche mini Apricot", detalle: "💫Entregamos cachorros de calidad💫" },
   { img: "images/g30_golden_retriever.jpeg", nombre: "Golden Retriever", detalle: "💫Mini aventura con grandes huellas💫" }
 
-
+]

@@ -1,11 +1,11 @@
 // Aquí puedes editar las fotos, nombres y el detalle/edad del perrito, solo necesitas reemplazar la información cuando necesites actualizar
 const CACHORROS = [
-  { img: "images/cliente bulldog.jpeg", nombre: "Bulldog Frances Vaquita", detalle: "Llevando alegria a un nuevo Hogar😍" },
-  { img: "images/poodle.jpeg", nombre: "French Poodle Mini", detalle: "Hembra\n2 meses" },
-  { img: "images/cliente_husky.jpeg",nombre: "Husky Siberiano", detalle: "💫Un nuevo miembro a la familia💫" },
-  { img: "images/golden.jpeg", nombre: "Goldendoodle", detalle: "Hembra\n2 meses" },
-  { img: "images/labrador.jpg", nombre: "💫Labrador Retriever💫", detalle: "Hembra\n2 meses" },
-  { img: "images/beagle4.jpg", nombre: "Beagle", detalle: "Machos\n2 meses" },
+
+  { img: "images/Bernedoodle.jpeg", nombre: "Bernedoodle Mini ", detalle: "Hembra\n2 meses" },
+  { img: "images/Bernedoodle 1.jpeg",nombre: "Bernedoodle Mini ", detalle: "Hembra\n2 meses" },
+  { img: "images/Caniche Apricot.png", nombre: "Caniche Apricot", detalle: "Macho\n2 meses" },
+  { img: "images/Caniche.png", nombre: "Caniche ", detalle: "Macho\n2 meses" },
+  { img: "images/FrenshPoodle.png", nombre: "Frensch Poodle", detalle: "Hembra\n2 meses" },
   { img: "images/cliente04.jpeg", nombre: "Shih Tzu", detalle: "🥳Un nuevo comienzo para tu vida🐾" },
   { img: "images/cliente3.jpeg", nombre: "Shih Tzu", detalle: "🥳 En cada rincón sus ladridos te sorprenderán🐾" },
   { img: "images/g09_schnauzer.jpeg", nombre: "Schnauzer", detalle: "🥰Tu casa estará llena de diversión💓" },

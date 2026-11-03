@@ -1,12 +1,12 @@
 // Aquí puedes editar las fotos, nombres y el detalle/edad del perrito, solo necesitas reemplazar la información cuando necesites actualizar
 const CACHORROS = [
 
-  { img: "images/Cliente bulldog.jpeg", nombre: "Bulldog Frances Vaquita ", detalle: "Hermoso Bulldog Francés, lleno de ternura y encanto. 🐶❤️ Un compañero ideal para llenar tu hogar de amor." },
-  { img: "images/Cliente Goldendoodle.jpeg",nombre: "Goldendoodle ", detalle: "Goldendoodle: una adorable combinación de inteligencia, ternura y amor. 🐶🤎" },
-  { img: "images/Maltipoo Hembra.jpeg", nombre: "Maltipo", detalle: "Hembra\n2 meses" },
-  { img: "images/Pastor Aleman Hembra.jpeg", nombre: "Pastor Alemán ", detalle: "Hembra\n2 meses" },
-  { img: "images/Bulldog Frances.jpeg", nombre: "Bulldog Frances Vaquita", detalle: "Macho\n2 meses" },
-  { img: "images/cliente04.jpeg", nombre: "Shih Tzu", detalle: "🥳Un nuevo comienzo para tu vida🐾" },
+  { img: "images/Entrega Bulldog M.jpeg", nombre: "Bulldog Frances Vaquita ", detalle: "Hermoso Bulldog Francés, lleno de ternura y encanto. 🐶❤️ Un compañero ideal para llenar tu hogar de amor." },
+  { img: "images/Entrega Goldendoodle.jpeg",nombre: "Goldendoodle ", detalle: "Goldendoodle: una adorable combinación de inteligencia, ternura y amor. 🐶🤎" },
+  { img: "images/Caniche.jpeg", nombre: "Caniche", detalle: "Hembra\n2 meses" },
+  { img: "images/Berneddodle.jpeg", nombre: "Bernedoodle ", detalle: "Hembra\n2 meses" },
+  { img: "images/Maltipoo Macho.jpeg", nombre: "Maltipoo", detalle: "Macho\n2 meses" },
+  { img: "images/Yorky.jpeg", nombre: "Yorky", detalle: "Macho\n2 meses" },
   { img: "images/cliente3.jpeg", nombre: "Shih Tzu", detalle: "🥳 En cada rincón sus ladridos te sorprenderán🐾" },
   { img: "images/g09_schnauzer.jpeg", nombre: "Schnauzer", detalle: "🥰Tu casa estará llena de diversión💓" },
   { img: "images/g10_gato_esfinge.jpeg", nombre: "Gato Esfinge", detalle: "🥰😍💫Cuenta con nuestra garantía y cordialidad" },

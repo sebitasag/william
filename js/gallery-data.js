@@ -1,9 +1,9 @@
 // Aquí puedes editar las fotos, nombres y el detalle/edad del perrito, solo necesitas reemplazar la información cuando necesites actualizar
 const CACHORROS = [
 
-  { img: "images/Entrega Bulldog M.jpeg", nombre: "Bulldog Frances Vaquita ", detalle: "Hermoso Bulldog Francés, lleno de ternura y encanto. 🐶❤️ Un compañero ideal para llenar tu hogar de amor." },
-  { img: "images/Entrega Goldendoodle.jpeg",nombre: "Goldendoodle ", detalle: "Goldendoodle: una adorable combinación de inteligencia, ternura y amor. 🐶🤎" },
-  { img: "images/Caniche.jpeg", nombre: "Caniche", detalle: "Hembra\n2 meses" },
+  { img: "images/Pastor Aleman.jpeg", nombre: "Pastor Aleman", detalle: "Macho\n2 meses" },
+  { img: "images/Beagle Macho.jpeg",nombre: "Beagle", detalle: "Macho\n2 meses" },
+  { img: "images/Maltipo Macho.jpeg", nombre: "Maltipoo", detalle: "Macho\n2 meses" },
   { img: "images/Berneddodle.jpeg", nombre: "Bernedoodle ", detalle: "Hembra\n2 meses" },
   { img: "images/Maltipoo Macho.jpeg", nombre: "Maltipoo", detalle: "Macho\n2 meses" },
   { img: "images/Yorky.jpeg", nombre: "Yorky", detalle: "Macho\n2 meses" },

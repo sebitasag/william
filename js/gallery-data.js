@@ -1,16 +1,16 @@
 // Aquí puedes editar las fotos, nombres y el detalle/edad del perrito, solo necesitas reemplazar la información cuando necesites actualizar
 const CACHORROS = [
 
-  { img: "images/Maltipoo Crema.jpg", nombre: "Maltipoo Crema", detalle: "Hembra\n2 meses\n💰500.00" },
-  { img: "images/Beagle Entrega.jpg",nombre: "Beagle", detalle: "Un Beagle, mil momentos felices por vivir 😍💫." },
-  { img: "images/Bernedoodle Hembra.jpg", nombre: "Bernedoodle", detalle: "Hembra\n2 meses\n💰1.100.00" },
+  { img: "images/Maltipoo Morada.png", nombre: "Maltipoo Crema", detalle: "Hembra\n2 meses\n💰500.00" },
+  { img: "images/Labradoodle M.jpg",nombre: "Labradoodle", detalle: "Macho\n4 meses\n💰500.00"." },
+  { img: "images/Goldendoodle.jpeg", nombre: "Goldendoodle", detalle: "Hembra\n2 meses\n💰1.500.00" },
   { img: "images/Bulldog Frances Vaquita.jpg", nombre: "Bulldog Francés", detalle: "Macho\n2 meses\n💰550.00" },
   { img: "images/Golden Retriver Entrega.jpg", nombre: "Golden Retriever", detalle: "Nobleza, alegría y amor para toda la familia 🏡🐶." },
   { img: "images/Pastor Aleman H.jpg", nombre: "Pastor Alemán ", detalle: "Hembra\n2 meses\n💰380.00" },
   { img: "images/Pequines Entrega.jpg", nombre: "Pequines", detalle: "🥳 Pequeño de tamaño, gigante de amor. ❤️🐾" },
   { img: "images/Maltipoo 2.jpg", nombre: "Maltipoo", detalle: "Hembra\n2 meses\n💰500.00" },
   { img: "images/Pomerania Entrega.jpg", nombre: "POmerania", detalle: "🥰😍💫¡Alegría y ternura en cuatro patitas!" },
-  { img: "images/Frensch Poodle.jpg", nombre: "Frensch Poodle", detalle: "Macho\n2 meses\n💰350.00" },
+  { img: "images/Frensch Poodle.jpg", nombre: "Frensch Poodle", detalle: "Hembra\n2 meses\n💰150.00" },
   { img: "images/Schnahuzer Macho.png", nombre: "Schnauzer", detalle: "Macho\n2 meses\n💰350.00." },
   { img: "images/g13_pomerania_mini.jpeg", nombre: "Pomerania mini", detalle: "🐾Un cachorro, una nueva familia. Gracias por confiar en Willin Mascotas 💛🐶" },
   { img: "images/g14_goldendoodle.jpeg", nombre: "Goldendoodle", detalle: "🐾 Amor a primera huellita 💖" },

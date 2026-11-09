@@ -2,7 +2,7 @@
 const CACHORROS = [
 
   { img: "images/Maltipoo Morada.png", nombre: "Maltipoo Crema", detalle: "Hembra\n2 meses\n💰500.00" },
-  { img: "images/Labradoodle M.jpg",nombre: "Labradoodle", detalle: "Macho\n4 meses\n💰500.00"." },
+  { img: "images/Labradoodle M.jpg",nombre: "Labradoodle", detalle: "Macho\n4 meses\n💰500.00." },
   { img: "images/Goldendoodle.jpeg", nombre: "Goldendoodle", detalle: "Hembra\n2 meses\n💰1.500.00" },
   { img: "images/Bulldog Frances Vaquita.jpg", nombre: "Bulldog Francés", detalle: "Macho\n2 meses\n💰550.00" },
   { img: "images/Golden Retriver Entrega.jpg", nombre: "Golden Retriever", detalle: "Nobleza, alegría y amor para toda la familia 🏡🐶." },

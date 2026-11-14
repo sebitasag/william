@@ -10,7 +10,7 @@ const CACHORROS = [
   { img: "images/chihuahua caf.jpeg", nombre: "Chihuahua", detalle: "Macho\n3 meses\n💰130.00" },
   { img: "images/Maltipoo 2.jpg", nombre: "Maltipoo", detalle: "Hembra\n2 meses\n💰500.00" },
   { img: "images/frensch h p.jpeg", nombre: "Frensch Poodle", detalle: "Hembra\n2 meses\n💰280.00\nEnvios Nacionales" },
-  { img: "images/cocker.jpeg", nombre: "Cocker", detalle: "🎀 ¡Nuestro pequeño consentido ya está en casa! 🏡" },
+  { img: "images/g20_cocker.jpeg", nombre: "Cocker", detalle: "🎀 ¡Nuestro pequeño consentido ya está en casa! 🏡" },
   { img: "images/Schnahuzer Macho.png", nombre: "Schnauzer", detalle: "Macho\n2 meses\n💰350.00." },
   { img: "images/g13_pomerania_mini.jpeg", nombre: "Pomerania mini", detalle: "🐾Un cachorro, una nueva familia. Gracias por confiar en Willin Mascotas 💛🐶" },
   { img: "images/g14_goldendoodle.jpeg", nombre: "Goldendoodle", detalle: "🐾 Amor a primera huellita 💖" },

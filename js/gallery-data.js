@@ -1,13 +1,13 @@
 // Aquí puedes editar las fotos, nombres y el detalle/edad del perrito, solo necesitas reemplazar la información cuando necesites actualizar
 const CACHORROS = [
 
-  { img: "images/cliente04.jpeg", nombre: "Shitzu", detalle: "🎀 Nuestro hermoso Shih Tzu ya tiene una familia que lo ama.🐾" },
-  { img: "images/Maltipoo Ma.jpeg",nombre: "Maltipoo", detalle: "Macho\n2 meses\n💰500.00." },
-  { img: "images/bulldog negra h.jpeg", nombre: "Bulldog Frances", detalle: "Hembra\n2 meses\n💰550.00\nPago Contra entrega" },
-  { img: "images/Caniche ap.jpeg", nombre: "Caniche Apricot", detalle: "Macho\n2 meses\n💰450.00" },
-  { img: "images/Entrega Goldendoodle.jpg", nombre: "Goldendoodle", detalle: "🐶 Nuestra hermosa Goldendoodle comienza una nueva aventura familiar. 🏡💕" },
-  { img: "images/pastor aleman 1.jpeg", nombre: "Pastor Alemán ", detalle: "Macho\n2 meses\n💰380.00" },
-  { img: "images/chihuahua caf.jpeg", nombre: "Chihuahua", detalle: "Macho\n3 meses\n💰130.00" },
+  { img: "images/bernedoodle negra 2. jpg", nombre: "Bernedoodle Black & Tan ", detalle: "Hembra\n2 meses\n💰1000.00\nPago Contra entrega" },
+  { img: "images/Frensch nena.jpg",nombre: "Frensch Poodle", detalle: "Hembra\n4 meses\n💰150.00." },
+  { img: "images/Golden Macho.jpeg", nombre: "Golden Retriver", detalle: "Macho\n60 Dias\n💰350.00\nPago Contra entrega" },
+  { img: "images/Maltipoo Entrega.jpeg", nombre: "Maltipoo", detalle: "Tierno, pequeño, juguetón y adorable 🧸💕" },
+  { img: "images/Pastor Aleman Entrega.jpeg", nombre: "Pastor Alemán", detalle: "🐶 Recibiendo a este Valiente, elegante, fiel y poderoso Pastor Alemán 🛡️🏡" },
+  { img: "images/Labradoodle Cafe.jpg", nombre: "Labradoodle ", detalle: "Macho\n4 meses\n💰500.00" },
+  { img: "images/Westy.png", nombre: "Westy", detalle: "Macho\n5 meses\n💰750.00" },
   { img: "images/Maltipoo 2.jpg", nombre: "Maltipoo", detalle: "Hembra\n2 meses\n💰500.00" },
   { img: "images/frensch h p.jpeg", nombre: "Frensch Poodle", detalle: "Hembra\n2 meses\n💰280.00\nEnvios Nacionales" },
   { img: "images/g20_cocker.jpeg", nombre: "Cocker", detalle: "🎀 ¡Nuestro pequeño consentido ya está en casa! 🏡" },
